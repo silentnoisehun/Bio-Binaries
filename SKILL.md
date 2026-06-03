@@ -1,22 +1,25 @@
-# Bio-Binaries
+---
+title: Bio-Binaries
+---
 
-## Mi ez
-24 bio-inspirált rendszersegédprogram Rust nyelven (vírusos propagáció, kvantum összefonódás, neurális kapcsolatok, rezonancia mezők).
+## Description
+33 bio-inspired system utilities in Rust (viral propagation, quantum entanglement, neural connections, resonance fields).
 
-## Használat
-Magas szintű, elosztott rendszerirányítás binaris protokollon (BioMessage) keresztül.
+## Usage
+High-level, distributed system management via binary protocol (BioMessage).
 
-## Bemenet
-CLI parancsok, `omega-master` parancsok, binaris adatcsomagok.
+## Input
+CLI commands, `omega-master` commands, binary data packets.
 
-## Kimenet
-Binaris rendszerállapot, logok, vagy végrehajtott bio-metoforikus művelet.
+## Output
+Binary system state, logs, or executed bio-metaphorical operation.
 
-## Példa
+## Example
 `cargo run --release --bin omega-master -- start --listen 127.0.0.1:8888`
 
-## Függőségek
+## Dependencies
 Rust, Cargo, tokio, bincode, blake3.
 
-## Megjegyzések
-Tiszta Rust, 100% binaris protokoll, 24 bio-modul. A `bio-core` részeként működik.
+## Notes
+Pure Rust, 100% binary protocol, 33 bio-modules. Operates as part of the `bio-core` ecosystem.
+See `README.md`, `CAPABILITIES.md`, and `PHILOSOPHY.md` for full documentation.
