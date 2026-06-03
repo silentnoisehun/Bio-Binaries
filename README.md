@@ -1,4 +1,5 @@
-<img width="704" height="1521" alt="bio-binaries-header" src="https://github.com/user-attachments/assets/bcc06f36-e347-44dd-9c4f-f5771bc220cb" />
+<img width="704" height="397" alt="bio-binaries-header" src="https://github.com/user-attachments/assets/b99de88c-760d-414c-bb9f-651749f2b929" />
+
 Bio-binaries v0.2.1
 
 **33 bio-inspired system utilities** — Binary protocol orchestration, quantum-space simulation, machine-brain inference.
