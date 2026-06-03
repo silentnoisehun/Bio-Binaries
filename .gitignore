@@ -1,0 +1,32 @@
+# Rust build artifacts
+target/
+**/target/
+
+# Generated files
+.bio-queen.key
+.bio-cryo/
+*.blake3
+drone_registry.json
+.methy-index.json
+.methy-index.bin
+
+# IDE
+.vs/
+.vscode/
+.idea/
+.antigravitycli/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Audio output
+*.wav
+*.mp3
+
+# Cargo lock is committed for binary crates
