@@ -1,6 +1,7 @@
-# bio-binaries v0.2.1
+<img width="704" height="1521" alt="bio-binaries-header" src="https://github.com/user-attachments/assets/bcc06f36-e347-44dd-9c4f-f5771bc220cb" />
+Bio-binaries v0.2.1
 
-**33 bio-inspired system utilities** — binary protocol orchestration, quantum-space simulation, machine-brain inference.
+**33 bio-inspired system utilities** — Binary protocol orchestration, quantum-space simulation, machine-brain inference.
 
 A modular ecosystem where each command represents a biological principle: viral infection, plasmid injection, neural synchronization, resonance fields, homeostasis. Pure Rust, 100% binary protocol.
 
