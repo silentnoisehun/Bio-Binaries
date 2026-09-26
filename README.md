@@ -1,3 +1,7 @@
+<!-- badges:start -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22983057.svg)](https://doi.org/10.5281/zenodo.22983057)
+[![ORCID iD](https://img.shields.io/badge/ORCID-0009--0003--3986--6039-green)](https://orcid.org/0009-0003-3986-6039)
+<!-- badges:end -->
 <img width="704" height="397" alt="bio-binaries-header" src="https://github.com/user-attachments/assets/b99de88c-760d-414c-bb9f-651749f2b929" />
 
 Bio-binaries v0.2.1
